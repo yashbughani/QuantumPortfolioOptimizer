@@ -1,0 +1,13 @@
+# Virtual Environment
+# Prevents uploading gigabytes of library files from your .venv
+.venv/
+venv/
+
+# PyCharm specific files
+# Ignores your personal IDE settings and cache
+.idea/
+
+# Python cache files
+# These are auto-generated and will clutter the repository
+__pycache__/
+*.pyc
